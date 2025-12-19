@@ -1,4 +1,0 @@
-2025-12-20 02:17:49.434 [info] Log level: Info
-2025-12-20 02:18:17.663 [info] Log level: Info
-2025-12-20 02:18:20.364 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-12-20 02:18:45.935 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for SavageAUS/archlinux-hypr-dots: Error: No GitHub authentication session available.
