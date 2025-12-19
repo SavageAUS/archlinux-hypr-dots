@@ -9,11 +9,7 @@
                 "folderUri": "file:///home/shane/.config"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1766159268241"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowControlHeight": 35,
     "profileAssociations": {
@@ -46,7 +42,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 237,
+            "sideBarWidth": 201,
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -68,7 +64,7 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 237,
+            "sideBarWidth": 201,
             "auxiliaryBarWidth": 300,
             "workspaces": {
                 "0fe4ea43751df8df5328bc851a29c461": {
