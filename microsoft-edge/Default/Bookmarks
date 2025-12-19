@@ -1,0 +1,214 @@
+{
+   "checksum": "8decb549e2fd728776fc08757cc18d20",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13332166976157169",
+            "date_last_used": "13410454260491737",
+            "guid": "40bb73ff-5e6d-49a4-9e41-d2291ee39f05",
+            "id": "14",
+            "name": "BlackBox/Login",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://192-168-2-2.59531db07e60aaeda9e5b5f71797b8ab8646cba6.myunraid.net:10443/Main",
+            "visit_count": 418
+         }, {
+            "date_added": "13392024230766830",
+            "date_last_used": "13409815414724265",
+            "guid": "bb582988-6687-40d0-9469-483d205b9784",
+            "id": "15",
+            "name": "Dashboard - Pangolin",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pangolin.sstechnology.org/",
+            "visit_count": 83
+         }, {
+            "date_added": "13239244993130399",
+            "date_last_used": "13409297205355743",
+            "guid": "572e9c80-ab2e-4e0f-91e6-178e5013798f",
+            "id": "16",
+            "name": "X570 AORUS PRO WIFI (rev. 1.1) | Motherboard - GIGABYTE Australia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.gigabyte.com/au/Motherboard/X570-AORUS-PRO-WIFI-rev-11-12/support#support-dl-driver",
+            "visit_count": 76
+         }, {
+            "date_added": "13346423864789736",
+            "date_last_used": "13409587046767185",
+            "guid": "bcda8974-3a02-4b37-9fb7-6a7dad25392a",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Server Management - Unraid Connect",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://connect.myunraid.net/server/iframe/0a9a2d6ae52f3bd7b4a8c151814bb372c8bd5127cfdfca4e041431a18837d996",
+            "visit_count": 5
+         }, {
+            "date_added": "13357650039346597",
+            "date_last_used": "13399372480264813",
+            "guid": "e44e1555-8a1c-4a0a-b2f3-f496d691225b",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(78) SavageAUS Gaming - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/channel/UC6gQ1qpMJuyZSWC_JR9g-vw",
+            "visit_count": 63
+         }, {
+            "date_added": "13394198029776181",
+            "date_last_used": "13400479183999914",
+            "guid": "b20cd71f-b053-4e41-93a4-ee1306c854d3",
+            "id": "19",
+            "name": "Channel dashboard - YouTube Studio",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://studio.youtube.com/channel/UC6gQ1qpMJuyZSWC_JR9g-vw",
+            "visit_count": 13
+         }, {
+            "date_added": "13369890814549887",
+            "date_last_used": "0",
+            "guid": "d5c12a25-0f88-4e04-a483-51db4e7f2a80",
+            "id": "20",
+            "name": "AdaptedMind Math",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adaptedmind.com/select-subject",
+            "visit_count": 0
+         } ],
+         "date_added": "13410631900534063",
+         "date_last_used": "0",
+         "date_modified": "13394198029776181",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13410631900534063",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13239972356231498",
+            "date_last_used": "0",
+            "guid": "69b575b3-e500-44a5-ae10-7220051970a8",
+            "id": "6",
+            "name": "Yates 2L Dynamic Lifter Organic Hose On Soil Improver and Plant Fertiliser",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bunnings.com.au/yates-2l-dynamic-lifter-organic-hose-on-soil-improver-and-plant-fertiliser_p2962154",
+            "visit_count": 0
+         }, {
+            "date_added": "13069385822844000",
+            "date_last_used": "0",
+            "guid": "f4ff1316-171a-44aa-a340-19e3854d76ce",
+            "id": "7",
+            "name": "Clipsal 500 Adelaide",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://clipsal500.com.au/",
+            "visit_count": 0
+         }, {
+            "date_added": "13067601390288462",
+            "date_last_used": "0",
+            "guid": "363004b5-d34d-4141-a6eb-0e31167b929e",
+            "id": "8",
+            "name": "Certificate IV in Computer Systems Technology - TAFE SA - Course Modules",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.tafesa.edu.au/xml/module/crsemod_TP00652.aspx?src=\\xml\\course\\aw\\aw_TP00652&Y=2015",
+            "visit_count": 0
+         }, {
+            "date_added": "13226331885423385",
+            "date_last_used": "0",
+            "guid": "5f7cfbe6-63a8-40ea-8667-ec5f1dc1812b",
+            "id": "9",
+            "name": "iOS Repo Updates",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.ios-repo-updates.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13238409639713019",
+            "date_last_used": "0",
+            "guid": "11c5c995-1a23-4c8c-a9cc-0466c9248a11",
+            "id": "10",
+            "name": "Home | Kayhan Audio",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://kayhanaudio.com.au/",
+            "visit_count": 0
+         }, {
+            "date_added": "13272692344546682",
+            "date_last_used": "0",
+            "guid": "ffc52b6a-b1fc-4de6-baf5-54d8f16826f3",
+            "id": "11",
+            "name": "WIRELESS APPLE CARPLAY | No need to buy adapter or dongle - iPhone Wired",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://iphonewired.com/industry/116890/",
+            "visit_count": 0
+         }, {
+            "date_added": "13273593603158805",
+            "date_last_used": "0",
+            "guid": "1369610c-68ce-4d90-9805-1e61c9ff9b43",
+            "id": "12",
+            "name": "https://caddy.community/t/cant-obtain-certificate-reverse-proxy-with-cloudflare/13265/4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://caddy.community/t/cant-obtain-certificate-reverse-proxy-with-cloudflare/13265/4",
+            "visit_count": 0
+         }, {
+            "date_added": "13380742911262823",
+            "date_last_used": "0",
+            "guid": "a5592ac4-80c7-4998-b2dd-742f107ebfee",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Australian Financial Security Authority | Supporting better outcomes for consumers, business and the community.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://services.afsa.gov.au/client/dashboard/insolvency",
+            "visit_count": 1
+         } ],
+         "date_added": "13410631900534063",
+         "date_last_used": "0",
+         "date_modified": "13380742911262823",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCJlopiybAQAAEgAqGG9lbzg1V08wZkhCSkFrSXJzSzFkYkE9PUgDoAYHErUBCBISsAEKHEtmWnkyU0tXUlJidW0zMng1L2pjNFlTQ1E5bz0SJGU0NGUxNTU1LThhMWMtNGEwYS1iMmYzLWY0OTZkNjkxMjI1YhgAIAAoADD01//AiTM4ge2Xiu4xQIHtl4ruMUocVmFTMmNIVXlYakNKQ0tJRUVKaWpsQjVGbEZ3PVonIiX/////AAAABvFxU3VaaUl2b0ZTeTllZ3BmViszSkljRFhnQ2M9ZUP4bYDCPgJgBRK1AQgRErABChxTVVFoeDZVSW5VTitGSUMyMXBUM0VJMHJGeVU9EiRiY2RhODk3NC0zYTAyLTRiMzctOWZiNy02YTdkYWQyNTM5MmEYACAAKAAwtuTlsLAzOJ3BkKHEMUCdwZChxDFKHHMxMmlqVm9Uaml2TXVKc2UxVUZhR3BKamxRWT1aJyIl/////wAAAAbeWjRHbWxVR1RVVW1ERmJiQkNoMkJOUCt1VlJBPWXeC90pwj4CYAUSrQEIDxKoAQocQWx3OEJ1TEFOTzNCU1ZQSWNMSUR5OGZ1V3JRPRIkYmI1ODI5ODgtNjY4Ny00MGQwLTk0NjktNDgzZDIwNWI5Nzg0GAAgACgAMI7RybSwMzjJ9ImR7jJAyfSJke4yShwxSUdleW1mL0pFRW5EcmtQVU03ZEdkTHhCVEU9Wh8iHbtaUS95RWJ3L2c5ZTZSaWFZL2hNTElUWjJVOFk9ZWF9twPCPgJgBRK1AQgUErABChw0R0RQTDBFaHp4RGpKZ1dteXZobWNrd0d5TUU9EiRkNWMxMmEyNS0wZjg4LTRlMDQtYTQ4My01MWRiNGU3ZjJhODAYACAAKAAwhL2F15syOLC+hdebMkCwvoXXmzJKHGR1QVFKcXE4ekdSajBWNHN5N2VZRjNrWHIzUT1aJyIl/////wAAAAb7bkVCc0lBS28vR2E3RERMd1dXc0Y4R2hlSys0PWV+DWDtwj4CYAUStQEIEBKwAQocT0xZSGh3YUFwZURFbHM0Y0F4bnIvUlFBTzUwPRIkNTcyZTljODAtYWIyZS00ZTBmLTkxZTYtMTc4ZTUwMTM3OThmGAAgACgAMK3SvL2uMziLr5SEtTBAi6+UhLUwShxmU3RaczFOTkZTRnordGZzT2tKY0ZWT2xpajQ9WiciJf////8AAAAF/lYxcVlXcWlHLzl2dWozOEt4cm9ISW0rbnhxRT1lrxiqOMI+AmAFEqwBCA4SpwEKHEJZaHJhak90T0Q0L051ZHZFVkVxSUd5REdRaz0SJDQwYmI3M2ZmLTVlNmQtNDlhNC05ZTQxLWQyMjkxZWUzOWYwNRgAIAAoADCY0ZnlsjM4pN/ExbkxQKTfxMW5MUocVktwL1VVZEdKdGdYU3l4NlZoT3Qvb0NzUDlJPVoeIhx3V0IzL24xendyN3lFdm43c1ZJUStFWnBVYWc9ZQBJ25vCPgJgBRKtAQgMEqgBChxLaDlvQlRib2t1NXBjYStpQm14cUJ2bDJORXM9EiQxMzY5NjEwYy02OGNlLTRkOTAtOTgwNS0xZTYxYzlmZjliNDMYACAAKAAwhqvg0sAxONe7mr7mMEDXu5q+5jBKHGlTZ0Nrb3JIemdqY1RWbk9FUE5XLzIxTHU1Zz1aHyId+2VKVEJQR3dxT25VYThKbmgwZlREeHRuSGNKdz1l3+EVsMI+AmAFEq0BCA0SqAEKHENZemJwWlJVRk9wdzl4SUlGeGdLa2dmam05bz0SJGE1NTkyYWM0LTgwYzctNDk5OC1iMmRkLTc0MmYxMDdlYmZlZRgAIAAoADDy7NyNxDI4hu/cjcQyQIbv3I3EMkocQW84dHdBcGhtNm9sejcwK0xncXpVc3N1c0VjPVofIh39TnU5MmMxb1NudDQ2Q3ZJZ0FCcDgrQXVSTnVrPWVz3PyTwj4CYAUSrQEICxKoAQocRVplQUZlMzBqQkRvWGV6bDdKcnpZdlpYcDNzPRIkZmZjNTJiNmEtYjFmYy00ZGU2LWJhZjUtNTRkOGYxNjgyNmYzGAAgACgAMIWr4NLAMTilvJq+5jBApbyavuYwShw3STV5MGFSOStOVUxjbERVdzNVTGthLzB1aEE9Wh8iHfd5a2l1MmRQZFhVRHoxc2VDQzJscW1iK04zT289ZaRBbe7CPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQwYjU4NmM3ZC02NDg1LTVkYzYtYjA5My0wZmJlNWFiOTViYTQYACAAKAAwsvDGzrYtOJjhgoDxL0CY4YKA8S9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAAStQEIExKwAQocSlduaVgrRGhBNHUvNklnS25SNTlXT0FvZ3EwPRIkYjIwY2Q3MWYtYjA1My00ZTQxLTkzYTQtZWUxMzA2Yzg1NGQzGAAgACgAMLqt29CNMzi6kdCd9jJAupHQnfYyShxBcGlHQmZkU0JxdjBGWExxdndxTnJ2a2lqREk9WiciJf////8AAAAG9kF3M2UrYnV5ZXJOemI5L3hqYnpwQ1ZndnI4TT1lQ/htgMI+AmAFEq0BCAoSqAEKHFBOK2pWTEEyRi82T3JsaXVCNmhGMElIMWZWOD0SJDExYzVjOTk1LTFhMjMtNGM4Yy1hOWNjLTA0NjZjOTI0OGExMRgAIAAoADDs1dWN0TI4na6UhLUwQJ2ulIS1MEocRzdKc2pyYTlmZmJ2V2x0eWlHYUtsMUhQVXprPVofIh3vdjE2eDRXdGRvOHo3K3UvZjBKYWRyb0pMNWxzPWW7kSIQwj4CYAUSrAEIBhKnAQocN05sbmJUbFhqdHY1bVlIRHVQMnVwT3l6SUhRPRIkNjliNTc1YjMtZTUwMC00NGE1LWFlMTAtNzIyMDA1MTk3MGE4GAAgACgAMLeslIS1MDjArZSEtTBAwK2UhLUwShx5SUg3bjJBSFBpZk5hWjdwbGtxczhOYTlldTA9Wh4iHFFwZXZhZStrTHJEM2FJVCtLTzZvVVVqY1dWTT1lAAAAAMI+AmAFEq0BCAkSqAEKHERkSEVtQnlqeDg4VG9xZmxoREhia1BISEtqbz0SJDVmN2NmYmU2LTYzYTgtNDBlYS04NjY3LWVjNWYxZGMxODEyYhgAIAAoADDAuJq+5jA4hbyavuYwQIW8mr7mMEocVHJCL2pUanNHQldxRGVrVlVybm15WmplbzdjPVofIh3ec1QrNjBBUGdPT25LajU5ZzAvODNyUkpuVkowPWUAAAAAwj4CYAUSrQEICBKoAQocN0o0a0JyU0czaEdNOUJ6SzdNbnBuUGcyaVRBPRIkMzYzMDA0YjUtZDM0ZC00MTQxLWE2ZWItMGUzMTE2N2I5MjllGAAgACgAMISr4NLAMTi5r5SEtTBAua+UhLUwShxIdjc5bmFvL3pNejdHVVdhdEJQalE4OFJDWkE9Wh8iHbwxYlQrRVVIQTRDUWdJY1o2cFI4a1cvSWhTWTQ9ZaivvgrCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ4NTg1ZmE0Yi1lODliLTVhYmMtYjE2Zi00MDAyZjYwM2E3YjMYACAAKAAws/DGzrYtOKfhgoDxL0Cn4YKA8S9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEIBxKnAQocenhwZTJXU3pIbWpUY0lGZjAwT2cvL3BVTDFrPRIkZjRmZjEzMTYtMTcxYS00NGFhLWEzNDAtMTllMzg1NGQ3NmNlGAAgACgAMIir4NLAMTi5upq+5jBAubqavuYwShxPUWlhQjhNUUdpandCMjNEZVNMVXlpSUFqZ1k9Wh4iHHhRZDFvUmRHRlordUJkMTROU3A0SW4ybXVIOD1lZtbqE8I+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGI5NTYzYjc5LWJmYTktNWU0Ni04ZWEwLWEzZjExMmQxMzFkMRgAIAAoADD7t7ePjS44/fmCgPEvQP35goDxL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
